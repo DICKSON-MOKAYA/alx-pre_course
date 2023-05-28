@@ -1,14 +1,2 @@
 #!/bin/bash
 echo "ALX"
->c
-
-
-c
-cd ..
-root@40e7cc9cba2d:~/alx-pre_course/0x01-git/bash# cat > school
-#!/bin/bash
-echo "school"
-root@40e7cc9cba2d:~/alx-pre_course/0x01-git# cd bash# git add .
-[C
-
-root@40e7cc9cba2d:~/alx-pre_course/0x01-git/bash# git add .
